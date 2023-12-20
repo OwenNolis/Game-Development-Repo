@@ -25,6 +25,8 @@ namespace DoomedOfTheDeath
             // TODO: Add your initialization logic here
 
             base.Initialize();
+
+            hero = new Hero(texture);
         }
 
         protected override void LoadContent()

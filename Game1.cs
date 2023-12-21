@@ -11,14 +11,10 @@ namespace DoomedOfTheDeath
         private SpriteBatch _spriteBatch;
 
         private Texture2D texture;
-        private Texture2D texture_MilitaryRobot_DeathBeamAttack;
-        private Texture2D texture_MilitaryRobot_DeathBeam_Spawn;
-        private Texture2D texture_MilitaryRobot_DeathBeam;
+        private Rectangle partRectangle; // New code
+        private int moveOn_X = 0; // New code
 
         Hero hero;
-        Hero militaryRobot_DeathBeamAttack;
-        Hero militaryRobot_DeathBeam_Spawn;
-        Hero militaryRobot_DeathBeam;
 
         public Game1()
         {
@@ -31,12 +27,11 @@ namespace DoomedOfTheDeath
         {
             // TODO: Add your initialization logic here
 
+            partRectangle = new Rectangle(moveOn_X,0,141,81); // New code
+
             base.Initialize();
 
             hero = new Hero(texture);
-            militaryRobot_DeathBeamAttack = new Hero(texture_MilitaryRobot_DeathBeamAttack);
-            militaryRobot_DeathBeam_Spawn = new Hero(texture_MilitaryRobot_DeathBeam_Spawn);
-            militaryRobot_DeathBeam = new Hero(texture_MilitaryRobot_DeathBeam);
         }
 
         protected override void LoadContent()
@@ -44,10 +39,6 @@ namespace DoomedOfTheDeath
             _spriteBatch = new SpriteBatch(GraphicsDevice);
             // TODO: use this.Content to load your game content here
             texture = Content.Load<Texture2D>("_textureMilitaryRobot_Movement");
-            texture_MilitaryRobot_DeathBeamAttack = Content.Load<Texture2D>("_textureMilitaryRobot_DeathBeamAttack");
-            texture_MilitaryRobot_DeathBeam_Spawn = Content.Load<Texture2D>("_textureMilitaryRobot_DeathBeam_Spawn");
-            texture_MilitaryRobot_DeathBeam = Content.Load<Texture2D>("_textureMilitaryRobot_DeathBeam");
-
 
             InitializeGameObjects();
         }
@@ -55,9 +46,6 @@ namespace DoomedOfTheDeath
         private void InitializeGameObjects()
         {
             hero = new Hero(texture);
-            militaryRobot_DeathBeamAttack = new Hero(texture_MilitaryRobot_DeathBeamAttack);
-            militaryRobot_DeathBeam_Spawn = new Hero(texture_MilitaryRobot_DeathBeam_Spawn);
-            militaryRobot_DeathBeam = new Hero(texture_MilitaryRobot_DeathBeam);
         }
 
         protected override void Update(GameTime gameTime)
@@ -68,9 +56,6 @@ namespace DoomedOfTheDeath
             // TODO: Add your update logic here
 
             hero.Update(gameTime);
-            militaryRobot_DeathBeamAttack.Update(gameTime);
-            militaryRobot_DeathBeam_Spawn.Update(gameTime);
-            militaryRobot_DeathBeam.Update(gameTime);
 
             base.Update(gameTime);
         }
@@ -83,13 +68,21 @@ namespace DoomedOfTheDeath
 
             _spriteBatch.Begin();
 
+            //_spriteBatch.Draw(texture, new Vector2(10,10),partRectangle, Color.White); // New code
+
             hero.Draw(_spriteBatch);
-            militaryRobot_DeathBeamAttack.Draw(_spriteBatch);
-            militaryRobot_DeathBeam_Spawn.Draw(_spriteBatch);
-            militaryRobot_DeathBeam.Draw(_spriteBatch);
+
+            
+
+            // New code
+          //  moveOn_X += 140;
+          //  if (moveOn_X > 562)
+          //      moveOn_X = 0;
+         //  partRectangle.X = moveOn_X;
+            // New code
 
             _spriteBatch.End();
-            
+
             base.Draw(gameTime);
         }
     }

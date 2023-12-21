@@ -20,20 +20,20 @@ namespace DoomedOfTheDeath
         {
             heroTexture = _textureMilitaryRobot;
             animation = new Animation();
-            /*animation.AddFrame(new AnimationFrame(new Rectangle(0, 0, 400, 96)));
-            animation.AddFrame(new AnimationFrame(new Rectangle(160, 0, 400, 96)));
-            animation.AddFrame(new AnimationFrame(new Rectangle(320, 0, 400, 96)));
-            animation.AddFrame(new AnimationFrame(new Rectangle(480, 0, 400, 96)));*/
+
+            // New code
+            animation.AddFrame(new AnimationFrame(new Rectangle(0, 0, 141, 81)));
+            animation.AddFrame(new AnimationFrame(new Rectangle(141, 0, 141, 81)));
+            animation.AddFrame(new AnimationFrame(new Rectangle(282, 0, 141, 81)));
+            animation.AddFrame(new AnimationFrame(new Rectangle(423, 0, 141, 81)));
+            animation.AddFrame(new AnimationFrame(new Rectangle(564, 0, 141, 81)));
+            // New code
 
             // Animation for Movement
             //animation.GetFramesFromTextureProperties(_textureMilitaryRobot.Width, _textureMilitaryRobot.Height, 4, 1);
 
             // Animation for Shield
             //animation.GetFramesFromTextureProperties(_textureMilitaryRobot.Width, _textureMilitaryRobot.Height, 10, 1);
-
-            // Animation for DeathBeamAttack
-            animation.GetFramesFromTextureProperties(_textureMilitaryRobot.Width, _textureMilitaryRobot.Height, 5, 1);
-
         }
 
         public void Update(GameTime gameTime)

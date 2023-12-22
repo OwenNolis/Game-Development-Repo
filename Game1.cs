@@ -3,7 +3,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System;
 
-namespace DoomedOfTheDeath
+namespace TestSpriteMovement
 {
     public class Game1 : Game
     {
@@ -11,9 +11,6 @@ namespace DoomedOfTheDeath
         private SpriteBatch _spriteBatch;
 
         private Texture2D texture;
-        private Rectangle partRectangle; // New code
-        private int moveOn_X = 0; // New code
-
         Hero hero;
 
         public Game1()
@@ -27,20 +24,22 @@ namespace DoomedOfTheDeath
         {
             // TODO: Add your initialization logic here
 
-            partRectangle = new Rectangle(moveOn_X,0,141,81); // New code
-
             base.Initialize();
-
-            hero = new Hero(texture);
         }
 
         protected override void LoadContent()
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
-            // TODO: use this.Content to load your game content here
-            texture = Content.Load<Texture2D>("_textureMilitaryRobot_Movement");
+
+            // CharacterSheet
+            texture = Content.Load<Texture2D>("CharacterSheet");
+
+            // MilitaryRobot
+            //texture = Content.Load<Texture2D>("_textureMilitaryRobot_Movement");
 
             InitializeGameObjects();
+
+            // TODO: use this.Content to load your game content here
         }
 
         private void InitializeGameObjects()
@@ -55,31 +54,21 @@ namespace DoomedOfTheDeath
 
             // TODO: Add your update logic here
 
-            hero.Update(gameTime);
+            hero.Update();
 
             base.Update(gameTime);
         }
 
         protected override void Draw(GameTime gameTime)
         {
-            // TODO: Add your drawing code here
+            GraphicsDevice.Clear(Color.BurlyWood);
 
-            GraphicsDevice.Clear(Color.DarkGray);
+            // TODO: Add your drawing code here
 
             _spriteBatch.Begin();
 
-            //_spriteBatch.Draw(texture, new Vector2(10,10),partRectangle, Color.White); // New code
-
             hero.Draw(_spriteBatch);
 
-            
-
-            // New code
-          //  moveOn_X += 140;
-          //  if (moveOn_X > 562)
-          //      moveOn_X = 0;
-         //  partRectangle.X = moveOn_X;
-            // New code
 
             _spriteBatch.End();
 

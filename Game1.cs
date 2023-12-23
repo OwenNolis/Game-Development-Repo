@@ -35,7 +35,7 @@ namespace TestSpriteMovement
             texture = Content.Load<Texture2D>("CharacterSheet");
 
             // MilitaryRobot
-            //texture = Content.Load<Texture2D>("_textureMilitaryRobot_Movement");
+           //texture = Content.Load<Texture2D>("_textureMilitaryRobot_Movement");
 
             InitializeGameObjects();
 
@@ -54,7 +54,7 @@ namespace TestSpriteMovement
 
             // TODO: Add your update logic here
 
-            hero.Update();
+            hero.Update(gameTime);
 
             base.Update(gameTime);
         }
@@ -68,7 +68,6 @@ namespace TestSpriteMovement
             _spriteBatch.Begin();
 
             hero.Draw(_spriteBatch);
-
 
             _spriteBatch.End();
 

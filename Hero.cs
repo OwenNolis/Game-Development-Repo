@@ -1,5 +1,6 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Input;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,6 +17,8 @@ namespace TestSpriteMovement
         private Animation animation;
         private Vector2 position;
         private Vector2 speed;
+        private Vector2 acceleration;
+        private Vector2 mouseVector;
 
         public Hero(Texture2D texture)
         {
@@ -37,26 +40,53 @@ namespace TestSpriteMovement
 
             position = new Vector2(10, 10);
             speed = new Vector2(1, 1);
+            acceleration = new Vector2(0.1f, 0.1f);
         }
 
         public void Update(GameTime gameTime)
         {
-            Move();
+            Move(GetMouseState());
             animation.Update(gameTime);
         }
 
-        private void Move()
+        private Vector2 GetMouseState()
         {
+            MouseState state = Mouse.GetState();
+            mouseVector = new Vector2(state.X, state.Y);
+            return mouseVector;
+        }
+
+        private void Move(Vector2 mouse)
+        {
+            var direction = Vector2.Add(mouse, -position);
+            direction.Normalize();
+            direction = Vector2.Multiply(direction, 3f);    // Keeps hovering around mouse ==> Distoring direction; useful for enemies roaming around hero
+
+            speed += direction;
+            speed = Limit(speed,5);
             position += speed;
 
             if(position.X > 630 || position.X < -40)
             {
                 speed.X *= -1;
+                acceleration.X *= -1;
             }
             if(position.Y > 250 || position.Y < -40)
             {
                 speed.Y *= -1;
+                acceleration *= -1;
             }
+        }
+
+        private Vector2 Limit(Vector2 v, float max) 
+        {
+            if(v.Length() > max)
+            {
+                var ratio = max / v.Length();
+                v.X = v.X * ratio;
+                v.Y = v.Y * ratio;
+            }
+            return v;
         }
 
         public void Draw(SpriteBatch spriteBatch)
@@ -65,7 +95,7 @@ namespace TestSpriteMovement
             spriteBatch.Draw(heroTexture, position, animation.CurrentFrame.SourceRectangle , Color.White);
 
             // MilitaryRobot
-            //spriteBatch.Draw(heroTexture, new Vector2(10,10), animation.CurrentFrame.SourceRectangle, Color.White);
+            //spriteBatch.Draw(heroTexture, position, animation.CurrentFrame.SourceRectangle, Color.White);
         }
 
     }

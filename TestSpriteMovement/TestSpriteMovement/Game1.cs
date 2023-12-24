@@ -1,6 +1,8 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using System;
+using TestSpriteMovement.Input;
 
 namespace TestSpriteMovement
 {
@@ -10,8 +12,7 @@ namespace TestSpriteMovement
         private SpriteBatch _spriteBatch;
 
         private Texture2D texture;
-        private Rectangle partRectangle;
-        private int moveOn_X = 0;
+        Hero hero;
 
         public Game1()
         {
@@ -24,12 +25,6 @@ namespace TestSpriteMovement
         {
             // TODO: Add your initialization logic here
 
-            // CharacterSheet
-            //partRectangle = new Rectangle(moveOn_X, 0,180, 248);
-
-            // MilitaryRobot
-            partRectangle = new Rectangle(moveOn_X, 0, 75, 81);
-
             base.Initialize();
         }
 
@@ -38,12 +33,19 @@ namespace TestSpriteMovement
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // CharacterSheet
-            //texture = Content.Load<Texture2D>("CharacterSheet");
+            texture = Content.Load<Texture2D>("CharacterSheet");
 
             // MilitaryRobot
-            texture = Content.Load<Texture2D>("_textureMilitaryRobot_Movement");
+           //texture = Content.Load<Texture2D>("_textureMilitaryRobot_Movement");
+
+            InitializeGameObjects();
 
             // TODO: use this.Content to load your game content here
+        }
+
+        private void InitializeGameObjects()
+        {
+            hero = new Hero(texture, new KeyBoardReader());
         }
 
         protected override void Update(GameTime gameTime)
@@ -52,6 +54,8 @@ namespace TestSpriteMovement
                 Exit();
 
             // TODO: Add your update logic here
+
+            hero.Update(gameTime);
 
             base.Update(gameTime);
         }
@@ -64,32 +68,9 @@ namespace TestSpriteMovement
 
             _spriteBatch.Begin();
 
-            // CharacterSheet
-            //_spriteBatch.Draw(texture, new Vector2(10,10), partRectangle, Color.White);
-
-            // MilitaryRobot
-            _spriteBatch.Draw(texture, new Vector2(10,10), partRectangle, Color.White);
+            hero.Draw(_spriteBatch);
 
             _spriteBatch.End();
-
-            // CharacterSheet
-            /*
-            moveOn_X += 180;
-            if(moveOn_X > 900)
-            {
-                moveOn_X = 0;
-            }
-            partRectangle.X = moveOn_X;
-            */
-
-            // MilitaryRobot
-
-            moveOn_X += 80;
-            if (moveOn_X > 305)
-            {
-                moveOn_X = 0;
-            }
-            partRectangle.X = moveOn_X;
 
             base.Draw(gameTime);
         }

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2a548fe-dfac-4c03-a068-0b9c3012ffbd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../vraag3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vraag3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vraag3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vraag3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/DEMO CODE/wk1/wk1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/DEMO CODE/wk8/wk8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/BESTANDEN/BESTANDEN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/BESTANDEN/wk5/wk5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk1/wk1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk2/out/production/wk2/be/ap/wk2/wk2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk2/wk2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk3/out/production/wk3/be/ap/wk3/wk3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk3/wk3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk3_maze/out/production/wk3_maze/maze/wk3_maze.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk3_maze/wk3_maze.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk4/out/production/wk4/be/ap/wk4/wk4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk4/wk4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk5/wk5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk6/starwars/starwars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk7/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk8/wk8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk9/.idea/wk9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk9/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/DEMO/CODE/wk9/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/Dependencies/src/main/java/util/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/Dependencies/src/main/resources/hibernate-h2.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/Dependencies/src/main/resources/hibernate-mysql.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk10/wk10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk11/.idea/wk11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk4/wk4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk5/wk5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk6/.idea/wk6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk7/.idea/wk7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk8/lab_files/lab_files.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/BESTANDEN/wk9/wk9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk1/src/main/java/animals/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/src/main/java/controller/AnimalClinicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/src/main/java/controller/AnimalDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/src/main/java/controller/ConsultDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/src/main/java/dao/AnimalDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/src/main/java/dao/ConsultDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/src/main/java/entity/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/src/main/java/entity/AnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/src/main/java/entity/Consult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/src/main/java/server/JettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/src/main/java/service/AnimalClinicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/src/main/java/util/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk10/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/controller/AnimalDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/controller/DonationDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/controller/DonorDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/controller/ReportDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/controller/WWFController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/dao/AnimalDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/dao/DonationDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/dao/DonorDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/entity/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/entity/Donation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/entity/Donor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/service/DonationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/service/DonorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/service/WWFService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/java/util/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/resources/animals.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk11/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk6/src/main/java/icalendar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk6/src/main/java/ownerpets/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk6/src/main/java/ownerpets/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk6/src/main/java/ownerpets/PetType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk6/src/main/resources/afspraak.ics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef1/Breed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef1/BreedDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef1/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef2/animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef2/animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef2/animals/CatBreed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef2/animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef2/animals/DogBreed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef2/animals/DomesticatedAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef2/animals/FourLeggedAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef2/animals/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef2/dao/AnimalDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef2/dao/CatDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef2/dao/DogDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef2/shelter/AnimalShelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef2/shelter/DuplicateAnimalException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef2/shelter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/java/oef2/util/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/resources/hibernate-oef1.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/resources/hibernate-oef2.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk7/src/main/resources/honden.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/src/main/java/bank/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/src/main/java/bank/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/src/main/java/bank/ThreadDeposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/src/main/java/bank/ThreadWithdrawal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/src/main/java/deadlock/Deadlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/src/main/java/patient/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/src/main/java/patient/CardDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/src/main/java/patient/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/src/main/java/patient/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/src/main/java/patient/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/src/main/java/patient/PatientDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/src/main/java/patient/PatientType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk8/src/main/resources/patienten.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk9/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk9/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk9/src/main/java/clinic/AnimalClinicV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk9/src/main/java/clinic/AnimalClinicV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk9/src/main/java/dao/AnimalDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk9/src/main/java/model/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk9/src/main/java/model/AnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk9/src/test/java/clinic/AnimalClinicV1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OEFENINGEN/wk9/src/test/java/clinic/AnimalClinicV2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w1/src 2/src 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w10/.idea/w10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w11/.idea/w11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w2/src/w2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w3/w3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w4/w4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w4/wk4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w4/wk4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w4/wk4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w4/wk4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w4/wk4/wk4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w5/w5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w6/w6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w7/src/w7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w8/w8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w9/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w9/.idea/w9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w9/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/EXAMEN/LABO/OPLOSSINGEN/w9/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/OEFENINGEN/.idea/OEFENINGEN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/OEFENINGEN/labo4/labo4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/OEFENINGEN/labo4/out/production/labo4/labo4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/OEFENINGEN/src/OEFENINGEN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/OEFENINGEN/src/out/production/OEFENINGEN/OEFENINGEN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/OEFENINGEN/starwars (1)/starwars (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/OEFENINGEN/starwars/out/production/starwars/starwars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/OEFENINGEN/starwars/starwars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/OEFENINGEN/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/OPLOSSINGEN/Labo1/Labo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Hogeschool/Toegepaste Informatica 2023 - 2024/JAVA/OPLOSSINGEN/Labo1/src/Labo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../main 2/main 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vraag3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vraag3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vraag3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vraag3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vraag3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vraag3/src/main/java/observation/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vraag3/src/main/java/observation/BearDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vraag3/src/main/java/observation/Observation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vraag3/src/main/java/observation/ObservationDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vraag3/src/main/java/observation/ObservationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vraag3/src/test/java/ObservationServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2afKOkai3TSDv1MeMnZHj5wS9lf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/owennolis/Desktop/EXAMEN/vraag2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2a548fe-dfac-4c03-a068-0b9c3012ffbd" name="Changes" comment="" />
+      <created>1704704163593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704704163593</updated>
+      <workItem from="1704704164791" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
